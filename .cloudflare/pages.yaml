@@ -1,0 +1,5 @@
+name: huzaifa-portfolio
+build:
+  command: npm run build
+  output_directory: out
+  root_directory: ./ 
